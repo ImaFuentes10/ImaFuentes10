@@ -43,7 +43,9 @@ I've been officially learning code for 1 month. After previous basic experiences
                     </picture>
                     </a></p>
 
-[![ImaFuentes10](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![ImaFuentes10](https://github-readme-stats.vercel.app/api?username=ImaFuentes10&theme=onedark)
+
+
 <!--
 **ImaFuentes10/ImaFuentes10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
