@@ -12,12 +12,14 @@ I've been officially learning code for 1 month. After previous basic experiences
 *   🚀  I'm currently working on [Mi Primera Página Web](http://github.com/ImaFuentes10/FrontEnd1-imafuentes)
 *   🧠  I'm learning HTML, CSS, JavaScript, Git, GitHub
 *   🤝  I'm open to collaborating on I'm open to collaboration in anything new that I can learn.
-*   ⚡  My dog wrote this### Skills 
+*   ⚡  My dog wrote this
+  ### Skills 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
                     </p>
-                    
-                  ### Socials
+
+
+### Socials
                   
                   
                 <p align="left">
