@@ -20,9 +20,7 @@ I've been officially learning code for 1 month. After previous basic experiences
 
 
 ### Socials
-                  
-                  
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/imafuentes0434" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
