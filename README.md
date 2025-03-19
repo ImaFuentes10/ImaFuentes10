@@ -4,18 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Delevopment Student
 -----------------------
 
-I've been officially learning code for 1 month. After previous basic experiences, I decided to adventure into FrontEnd development. I'm currently learning HTML, CSS, JavaScript, Git and GitHub. I'm also interested in learning Data Science. I have a M.Sc. in Biology that I would love to learn how to apply with coding.
+I've been officially learning code for 5 months. After previous basic experiences, I decided to adventure into FrontEnd development. I'm currently learning JavaScript, HTML, CSS, Git and GitHub. I'm also studying Coursera's Google Data Analysis Professional Certificate. I have a M.Sc. in Biology that I would love to learn how to apply with coding.
 
 *   🌍  I'm based in La Paz, BCS, Mèxico
 *   🖥️  See my portfolio at [ImaFuentes10 GitHub profile](http://github.com/ImaFuentes10)
 *   ✉️  You can contact me at [ima.fuentes.c@gmail.com](mailto:ima.fuentes.c@gmail.com)
-*   🚀  I'm currently working on [Mi Primera Página Web](http://github.com/ImaFuentes10/FrontEnd1-imafuentes)
-*   🧠  I'm learning HTML, CSS, JavaScript, Git, GitHub
-*   🤝  I'm open to collaborating on I'm open to collaboration in anything new that I can learn.
-*   ⚡  My dog wrote this
+*   🚀  I'm currently working on [Generador de Contraseñas]([https://imafuentes10.github.io/FrontEnd3-imafuentes/Proyecto-GeneradorContrase%C3%B1as/])
+*   🧠  I'm learning JavaScript, HTML, CSS, Git, GitHub, Data Analysis
+*   🤝  I'm open to collaborating on anything new that I can learn.
   ### Skills 
 <p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code"/></a>
                     </p>
 
 
