@@ -10,7 +10,7 @@ I've been officially learning code for 11 months. After previous basic experienc
 *   🖥️  See my portfolio at [ImaFuentes10 GitHub profile](http://github.com/ImaFuentes10)
 *   ✉️  You can contact me at [ima.fuentes.c@gmail.com](mailto:ima.fuentes.c@gmail.com)
 *   🚀  I'm currently working on [Generador de Contraseñas]([https://imafuentes10.github.io/FrontEnd3-imafuentes/Proyecto-GeneradorContrase%C3%B1as/](https://github.com/ImaFuentes10/BoardGameMana))
-*   🧠  I'm learning Reaact, JavaScript, HTML, CSS, Git, GitHub, Data Analysis
+*   🧠  I'm learning React, JavaScript, HTML, CSS, Git, GitHub, Data Analysis
 *   🤝  I'm open to collaborating on anything new that I can learn.
   ### Skills 
 <p align="left">
