@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Delevopment Student
 -----------------------
 
-I've been officially learning code for 5 months. After previous basic experiences, I decided to adventure into FrontEnd development. I'm currently learning JavaScript, HTML, CSS, Git and GitHub. I'm also studying Coursera's Google Data Analysis Professional Certificate. I have a M.Sc. in Biology that I would love to learn how to apply with coding.
+I've been officially learning code for 11 months. After previous basic experiences, I decided to adventure into FrontEnd development. I'm currently learning React, JavaScript, HTML, CSS, Git and GitHub. I'm also studying Coursera's Google Data Analysis Professional Certificate. I have a M.Sc. in Biology that I would love to learn how to apply with coding.
 
 *   🌍  I'm based in La Paz, BCS, Mèxico
 *   🖥️  See my portfolio at [ImaFuentes10 GitHub profile](http://github.com/ImaFuentes10)
 *   ✉️  You can contact me at [ima.fuentes.c@gmail.com](mailto:ima.fuentes.c@gmail.com)
-*   🚀  I'm currently working on [Generador de Contraseñas]([https://imafuentes10.github.io/FrontEnd3-imafuentes/Proyecto-GeneradorContrase%C3%B1as/])
-*   🧠  I'm learning JavaScript, HTML, CSS, Git, GitHub, Data Analysis
+*   🚀  I'm currently working on [Generador de Contraseñas]([https://imafuentes10.github.io/FrontEnd3-imafuentes/Proyecto-GeneradorContrase%C3%B1as/](https://github.com/ImaFuentes10/BoardGameMana))
+*   🧠  I'm learning Reaact, JavaScript, HTML, CSS, Git, GitHub, Data Analysis
 *   🤝  I'm open to collaborating on anything new that I can learn.
   ### Skills 
 <p align="left">
